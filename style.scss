@@ -25,7 +25,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 900px;
   padding: 0 10px;
   width: 100%;
 }
@@ -71,9 +71,9 @@ p {
 a {
   color: $blue;
   text-decoration: none;
-	cursor: pointer;
+  cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $purple;
   }
 }
 
@@ -151,7 +151,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 10px;
 }
 
 .masthead {
@@ -212,9 +212,9 @@ img {
 
 nav {
   float: right;
-  margin-top: 75px; // @TODO: Vertically middle align
+  margin-top: 85px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
-  font-size: 18px;
+  font-size: 16px;
 
   @include mobile {
     float: none;
@@ -232,7 +232,35 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $purple;
+    }
+  }
+}
+
+div.subnav {
+  width: 100%;
+  padding: 5px 0;
+  border-bottom: 1px solid $lightGray;
+  font-family: $helveticaNeue;
+  font-size: 16px;
+  text-align: center;
+  
+  a {
+    margin-left: 20px;
+    color: $darkGray;
+    text-decoration: none;
+    font-weight: 300;
+    font-style: italic;
+    letter-spacing: 1px;
+    cursor: pointer;
+    &:hover, &:active {
+      color: $purple;
+    
+    }
+
+    @include mobile {
+      margin: 0 10px;
+      color: $purple;
     }
   }
 }
