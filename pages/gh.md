@@ -5,9 +5,9 @@ permalink: /gh/
 ---
 
 <div class="subnav">
-    <a href="{{ site.baseurl }}/institut/#definition">Définition</a>
-    <a href="{{ site.baseurl }}/institut/#mouvements">Mouvements</a>
-    <a href="{{ site.baseurl }}/institut/#cest">La Gymnastique Holistique c’est...</a>
+    <a href="{{ site.baseurl }}/gh/#definition">Définition</a>
+    <a href="{{ site.baseurl }}/gh/#mouvements">Mouvements</a>
+    <a href="{{ site.baseurl }}/gh/#cest">La Gymnastique Holistique c’est...</a>
 </div>
 
 <h1>{{ page.title }}</h1>
