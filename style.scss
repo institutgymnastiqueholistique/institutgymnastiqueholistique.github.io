@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -211,7 +211,7 @@ img {
 }
 
 nav {
-  float: right;
+  float: left;
   margin-top: 85px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 16px;
