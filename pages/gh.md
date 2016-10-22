@@ -36,11 +36,11 @@ La GH est une méthode de rééducation qui permet à l’ensemble des fonctions
 
 <h2 id="mouvements">Mouvements</h2>
 
-<iframe src="http://player.vimeo.com/video/29099250" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0" height="281" width="500"></iframe>
+<iframe src="http://player.vimeo.com/video/29099250" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0" height="281" width="100%"></iframe>
 
-<iframe src="http://player.vimeo.com/video/29099279" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0" height="281" width="500"></iframe>
+<iframe src="http://player.vimeo.com/video/29099279" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0" height="281" width="100%"></iframe>
 
-<iframe src="http://player.vimeo.com/video/29099305" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0" height="281" width="500"></iframe>
+<iframe src="http://player.vimeo.com/video/29099305" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0" height="281" width="100%"></iframe>
 
 <h2 id="cest">La Gymnastique Holistique c’est...</h2>
 
