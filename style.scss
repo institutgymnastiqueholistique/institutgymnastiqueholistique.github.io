@@ -98,6 +98,10 @@ ul ul, ol ul {
   list-style-type: circle;
 }
 
+ul.no-bullet {
+  list-style-type: none;
+}
+
 em, i {
   font-style: italic;
 }
@@ -244,7 +248,7 @@ div.subnav {
   font-family: $helveticaNeue;
   font-size: 16px;
   text-align: center;
-  
+
   a {
     margin-left: 20px;
     color: $darkGray;
@@ -255,7 +259,7 @@ div.subnav {
     cursor: pointer;
     &:hover, &:active {
       color: $purple;
-    
+
     }
 
     @include mobile {
@@ -307,7 +311,7 @@ span.reverse {
 }
 
 .wrapper-footer {
-  
+
 }
 
 footer {
