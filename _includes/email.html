@@ -1,0 +1,5 @@
+{% comment %}
+To beat spam bots:
+https://matt.berther.io/2009/01/15/hiding-an-email-address-from-spam-harvesters/
+{% endcomment %}
+<span class="reverse">{{ site.contact.courriel | split: "" | reverse | join: "" }}</span>
