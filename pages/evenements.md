@@ -84,4 +84,4 @@ Coût : 500 $CDN (dépôt 200$)
 
 Matériel didactique fourni
 
-Pour plus d’informations vous pouvez me rejoindre à info@institutgh.com et au 514 522-5995
+Pour plus d’informations vous pouvez me rejoindre à {% include email.html %} et au {{ site.contact.telephone }}

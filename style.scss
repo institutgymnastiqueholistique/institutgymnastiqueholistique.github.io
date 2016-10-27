@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -96,6 +96,10 @@ ol ul, ul ol, ul ul, ol ol {
 
 ul ul, ol ul {
   list-style-type: circle;
+}
+
+ul.no-bullet {
+  list-style-type: none;
 }
 
 em, i {
@@ -211,7 +215,7 @@ img {
 }
 
 nav {
-  float: right;
+  float: left;
   margin-top: 85px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 16px;
@@ -244,7 +248,7 @@ div.subnav {
   font-family: $helveticaNeue;
   font-size: 16px;
   text-align: center;
-  
+
   a {
     margin-left: 20px;
     color: $darkGray;
@@ -255,7 +259,7 @@ div.subnav {
     cursor: pointer;
     &:hover, &:active {
       color: $purple;
-    
+
     }
 
     @include mobile {
@@ -263,6 +267,13 @@ div.subnav {
       color: $purple;
     }
   }
+}
+
+// To beat spam bots:
+// https://matt.berther.io/2009/01/15/hiding-an-email-address-from-spam-harvesters/
+span.reverse {
+  unicode-bidi: bidi-override;
+  direction: rtl;
 }
 
 //
@@ -300,7 +311,7 @@ div.subnav {
 }
 
 .wrapper-footer {
-  
+
 }
 
 footer {

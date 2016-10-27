@@ -9,26 +9,26 @@ permalink: /temoignages/
 <h3>Anne-Marie Benoît</h3>
 Éducatrice Somatique en GH Santé
 
-<iframe src="http://player.vimeo.com/video/49235676" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0" height="281" width="500"></iframe>
+<iframe src="http://player.vimeo.com/video/49235676" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0" height="281" width="100%"></iframe>
 
-<iframe src="http://player.vimeo.com/video/49478300" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0" height="281" width="500"></iframe>
+<iframe src="http://player.vimeo.com/video/49478300" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0" height="281" width="100%"></iframe>
 
 <h3>Marie-Pier Labbé</h3>
 Éducatrice Somatique en GH Arts
 
-<iframe src="http://player.vimeo.com/video/49235678" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0" height="281" width="500"></iframe>
+<iframe src="http://player.vimeo.com/video/49235678" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0" height="281" width="100%"></iframe>
 
 <h3>Danièle Tessier</h3>
 Éducatrice Somatique en GH Santé
 
-<iframe src="http://player.vimeo.com/video/49235677" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0" height="281" width="500"></iframe>
+<iframe src="http://player.vimeo.com/video/49235677" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0" height="281" width="100%"></iframe>
 
-<iframe src="http://player.vimeo.com/video/49478302" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0" height="281" width="500"></iframe>
+<iframe src="http://player.vimeo.com/video/49478302" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0" height="281" width="100%"></iframe>
 
 <h3>Lilianne Poirier</h3>
 Éducatrice Somatique en GH Éducation
 
-<iframe src="http://player.vimeo.com/video/49235675" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0" height="281" width="500"></iframe>
+<iframe src="http://player.vimeo.com/video/49235675" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0" height="281" width="100%"></iframe>
 
 <h3>Joanna Hennequin</h3>
 C’est une ouverture à la nature anatomique, physiologique et humaine de l’être. Très enrichissant!
@@ -57,25 +57,25 @@ Pour moi la formation d'éducatrice somatique en GH. a été tout d'abord une d�
 
 Éducatrice Somatique en GH Santé
 
-<iframe src="http://player.vimeo.com/video/49479322" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0" height="281" width="500"></iframe>
+<iframe src="http://player.vimeo.com/video/49479322" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0" height="281" width="100%"></iframe>
 
 <h3>Hedwidge Toupin</h3>
 
 Éducatrice Somatique en GH Éducation
 
-<iframe src="http://player.vimeo.com/video/49478303" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0" height="281" width="500"></iframe>
+<iframe src="http://player.vimeo.com/video/49478303" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0" height="281" width="100%"></iframe>
 
 <h3>Lilianne Poirier</h3>
 
 Éducatrice Somatique en GH Éducation
 
-<iframe src="http://player.vimeo.com/video/49478304" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0" height="281" width="500"></iframe>
+<iframe src="http://player.vimeo.com/video/49478304" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0" height="281" width="100%"></iframe>
 
 <h3>Lucie Mcneil</h3>
 
 Élève-cliente en GH
 
-<iframe src="http://player.vimeo.com/video/49479321" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0" height="281" width="500"></iframe>
+<iframe src="http://player.vimeo.com/video/49479321" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0" height="281" width="100%"></iframe>
 
 <h3>Micheline Brouillette</h3>
 
