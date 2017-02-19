@@ -14,7 +14,12 @@ permalink: /institut/
 
 <h1>{{ page.title }}</h1>
 
-L’Institut International de Gymnastique Holistique, sous la direction de Lucie Tétreault, pht, éducatrice somatique et formatrice agréée en GH, s'est doté d'une mission fondamentale, soit de promouvoir et de transmettre l'enseignement de la Gymnastique Holistique-méthode du Dr Ehrenfried auprès des professionnels issus des domaines de la santé, de l'éducation, du sport et des arts.
+L’Institut International de Gymnastique Holistique, sous la direction de Lucie
+Tétreault, physiothérapeute, éducatrice somatique et formatrice agréée en
+Gymnastique Holistique-Ehrenfried, s'est doté d'une mission fondamentale, soit
+de promouvoir et de transmettre l'enseignement de la Gymnastique
+Holistique-méthode du Dr Ehrenfried auprès des professionnels issus des
+domaines de la santé, de l'éducation, du sport et des arts.
 
 <h2 id="mission">Mission</h2>
 
@@ -58,11 +63,18 @@ En 1984, elle acquiert toutes ses compétences dans l’application et l’inté
 
 Cette méthode la passionne par ses fondements physiologiques bien ancrés dans des notions scientifiques. Son désir de les clarifier l’amène à conceptualiser cette approche dans une vision globale et intégrée de l’être humain en mouvement.
 
-Dès 1986, elle contribue à la formation des praticiennes au Québec et à partir de 2003, elle est autorisée, comme formatrice agréée, à transmettre l’enseignement de la Gymnastique Holistique-Méthode du Dr Lily Ehrenfried. Elle devient responsable du programme de formation professionnelle en Gymnastique Holistique, en 2005.
+Dès 1984, elle contribue à la formation des praticiennes au Québec et à partir
+de 2003, elle est autorisée, comme formatrice nationale et internationale, à transmettre
+l’enseignement de la Gymnastique Holistique-Méthode du Dr Lily Ehrenfried. Elle
+devient responsable du programme de formation professionnelle en Gymnastique
+Holistique, en 2005.
 
 Elle participe comme instigatrice et chargée de cours, à la mise sur pied du Diplôme d’Études Supérieures Spécialisées (DESS) en Éducation Somatique et du programme universitaire de formation en Éducation Somatique, profil Gymnastique Holistique (2008-2009).
 
-Elle collabore à la création de l’AEDEPGH-Q en 1988 où elle deviendra trésorière puis présidente de 1990 à 1994. En 1996, son implication l’amène à être membre fondateur du Regroupement pour l’Éducation Somatique où elle agit à titre de vice-présidente depuis 2 ans.
+Elle collabore à la création de l’AEDEPGH-Q en 1988 où elle deviendra
+trésorière puis présidente de 1990 à 1994. En 1996, son implication l’amène à
+être membre fondateur du Regroupement pour l’Éducation Somatique où elle agit à
+titre de vice-présidente et conseillère représentante de l'AEDEPGH-Q.
 
 Plus d'informations sur son site personnel: [lucietetreault.com](http://lucietetreault.com)
 
