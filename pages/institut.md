@@ -84,6 +84,8 @@ particulière.  L’approche originale qu’elle utilise permet aux apprenants d
 faire l’expérience intime de certaines des théories de l’éducation somatique et
 d’y puiser un vocabulaire incarné.
 
+<h3>Céline Laviolette</h3>
+
 <h3>Lise Sirois</h3>
 
 Bac. Sc. Université de Montréal, CPEC, Université de Sherbrooke, Formation en Psychosynthèse, Formation en Relation d’aide, Éducatrice Somatique à l’Atelier de Travail Corporel de 1981 à 2007.
@@ -101,6 +103,8 @@ L’IIGH invite ponctuellement les professeurs mentionnés ci-dessous, à partic
 MA. Psychologie, spécialisé en science cognitive. Praticien et formateur certifié de la méthode Feldenkrais. Il est un des leaders mondiaux dans l’établissement du champ disciplinaire de l’Éducation Somatique. Au sein de l’IIGH, Yvan Joly donne le cours *Perspectives de l’Éducation Somatique sur le développement sensori-moteur du jeune enfant*
 
 Ce cours permet de s’immerger dans l’évolution du mouvement dans une perspective phylogénétique et ontogénique avec comme structure les principes pédagogiques propres à l’Éducation Somatique.
+
+<h3>Andrée Dumouchel</h3>
 
 <h2 id="affiliations">Affiliations</h2>
 
