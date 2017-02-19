@@ -13,9 +13,12 @@ permalink: /programme/
 
 <h1>{{ page.title }}</h1>
 
-Formation professionnelle de 450 heures en Gymnastique Holistique est offert par l'IIGH et est sous la responsabilité et la coordination de Lucie Tétreault.
+Formation professionnelle de 450 heures en Gymnastique Holistique est offert par
+l'IIGH et est sous la responsabilité et la coordination de Lucie Tétreault,
+physiothérapeute formatrice nationale et internationale en Gymnastique
+Holistique-Ehrenfried.
 
-Voir [formation professionnelle](#formation-professionnelle) pour plus de détails sur les objectifs et le contenu de ce prorgramme de formation.
+Voir [formation professionnelle](#formation-professionnelle) pour plus de détails sur les objectifs et le contenu de ce programme de formation.
 
 Voir [calendrier](#calendrier) pour connaître les formules d'enseignement et le calendrier des activités de formation.
 
@@ -45,17 +48,17 @@ Au delà de l’apprentissage de la méthode:
 
 <h4>Découvrir et définir ce qu’est la Gymnastique Holistique</h4>
 
-* Connaître l’histoire et l’évolution de la méthode;
-* Comprendre et appliquer les fondements théoriques de la méthode;
-* Expérimenter le répertoire des mouvements et des expérimentations de la Gymnastique Holistique portant sur l’ensemble du corps humain;
-* Approfondir de façon expérientielle, analytique et réflexive l’anatomie et la physiologie respiratoire, la physiologie neurosensorimoteur de la proprioception;
+* Connaître l’histoire et l’évolution de la méthode
+* Comprendre et appliquer les fondements théoriques de la méthode
+* Expérimenter le répertoire des mouvements et des expérimentations de la Gymnastique Holistique portant sur l’ensemble du corps humain
+* Approfondir de façon expérientielle, analytique et réflexive l’anatomie et la physiologie respiratoire, la physiologie neurosensorimoteur de la proprioception
 * Connaître la physiologie musculosquelettique liée aux mouvements et à la vision tridimensionnelle de la Gymnastique Holistique.
 
 <h4>Apprendre à transmettre la Gymnastique Holistique</h4>
 
-* Développer des aptitudes relationnelles et pédagogiques;
-* Enseigner des mouvements aux collègues et à un groupe expérimental;
-* Élaborer des programmes de mouvements;
+* Développer des aptitudes relationnelles et pédagogiques
+* Enseigner des mouvements aux collègues et à un groupe expérimental
+* Élaborer des programmes de mouvements
 * Étudier les aspects légaux liés à la pratique professionnelle.
 
 <h3>Pédagogie</h3>
@@ -89,27 +92,49 @@ Au delà de l’apprentissage de la méthode:
 
 <h2 id="formation-continue">Formation continue</h2>
 
-* Séminaires de perfectionnement
+* Perfectionnement en Gymnastique Holistique
+* Séminaire international en Gymnastique Holistique-Ehrenfried
 * Supervision pédagogique (en groupe et en individuelle)
 
 <h3>Perfectionnement en Gymnastique Holistique</h3>
 
-Offert aux éducateurs et éducatrices somatiques ainsi qu’aux professionnels de la santé, de l’éducation et d’activités sportives:
+Offert aux éducateurs et éducatrices somatiques en Gymnastique
+Holistique-Ehrenfried :
 
+* L'apport de la Gymnastique Holistique-Ehrenfried dans l'apnée obstructive du
+  sommeil
+* Équilibre et Force
+* Garder son cerveau alerte
+* Revitaliser sa sangle abdominale
 * Ceinture scapulaire, membres supérieurs, main Holistique
-* Les problématiques reliées aux SacroIliaques;
-* Prendre soin de son cou;
-* Les Grands Classiques en GH;
-* L’être humain et ses diaphragmes;
-* Les Diaphragmes : pelvien, thoracique et crânio-facial;
+* Les problématiques reliées aux SacroIliaques
+* Prendre soin de son cou
+* Les Grands Classiques en GH
+* L’être humain et ses diaphragmes
+* Les Diaphragmes : pelvien, thoracique et crânio-facial
 * Deux ceintures, un tronc, une personne
-* Aide-mémoire Notes de travail du Dr L. Ehrenfried;
-* La place de la Tonicité en Gymnastique Holistique;
-* De l’Homo érectus à l’Homo sessitus;
-* Analyse des positions de base en Gymnastique Holistique;
-* Périnatalité : Physiologie de la grossesse et de l’accouchement;
-* Gymnastique Holistique en relation avec le Shiatsu : Décodage des mouvements en fonction des méridiens;
+* Aide-mémoire Notes de travail du Dr L. Ehrenfried
+* La place de la Tonicité en Gymnastique Holistique
+* De l’Homo érectus à l’Homo sessitus
+* Analyse des positions de base en Gymnastique Holistique
+* Périnatalité : Physiologie de la grossesse et de l’accouchement
+* Gymnastique Holistique en relation avec le Shiatsu : Décodage des mouvements en fonction des méridiens
 * Le Périnée.
+
+<h3>Séminaire international en Gymnastique Holistique-Ehrenfried</h3>
+
+Offert aux éducateurs et éducatrices somatiques ainsi qu’aux professionnels de
+la santé, de l’éducation et d’activités sportives :
+
+* Respirer des pieds à la tête avec la Gymnastique Holistique, Montréal
+* Respirer des pieds à la tête avec la Gymnastique Holistique, Lyon
+* Étude des ceintures : pelvienne, scapulaire et temporomandibulaire dans une
+approche éducative, préventive et thérapeutique du corps selon la méthode du dr
+Ehrenfried, Lyon
+* Étude des voies respiratoires supérieures et prévention des causes de
+l’obstruction dans la méthode Ehrenfried approche préventive, éducative
+thérapeutique du corps «des pieds à la tête» Lyon
+
 
 <h3>Ateliers et colloques</h3>
 
@@ -139,53 +164,18 @@ Si un de ces ateliers vous intéresse [communiquez]({{ site.baseurl }}/contact) 
 
 L'IIGH offre comme activités de formation professionnelle en Gymnastique Holistique:
 
-<h3>Initiation en Gymanistique Holistique</h3>
+<h3>Initiation en Gymnastique Holistique</h3>
 
-L'un de ces séminaires:
+<h3>Formation professionnelle en Gymnastique Holistique-Ehrenfried</h3>
 
-* 11 et 12 janvier 2013
-* 25 et 26 janvier 2013
-* 8 et 9 février 2013
+Les 450 heures sont réparties sur 2 ans. Vous pouvez choisir entre deux
+formules d’apprentissage :
 
-<h3>Formation professionnelle en Gymnastique Holistique</h3>
+<h4>La formule de fin de semaine :</h4>
 
-Les 450 heures sont réparties sur 2 ans. Vous pouvez choisir entre deux formules d’apprentissage : la formule de fin de semaine ou intensive.
+* Comprenant des blocs de 15 heures et cinq stages intensifs.
 
-<h4>La formule de fin de semaine (des blocs de 15 heures).</h4>
+<h4>La formule intensive :</h4>
 
-* Vendredi de 13h00 à 17h30
-* Samedi de 9h00 à 17h30 avec une pause de 90 minutes
-* Dimanche de 9h00 à 12h30
-
-Calendrier:
-
-* 5-6-7 avril 2013
-* 3-4-5 mai 2013
-* 31 mai et 1 juin 2013
-* 6-7-8 septembre 2013
-* 4-5-6 octobre 2013
-* 1-2-3 novembre 2013
-* 29-30 novembre et 1er décembre 2013
-
-<h4>La formule intensive (des blocs de 4 jours et une journée de repos)</h4>
-
-* De 9h00 à 17h00, 6 heures et demies par jour avec une pause de 90 minutes
-
-Calendrier:
-
-* 12-13-14-15 juin 2013
-* 17-18-19-20 juin 2013
-* 22-23 juin 2013
-* 6-7-8-9 décembre 2013
-* 11-12-13 décembre 2013
-* 16-17 décembre 2013
-
-<h4>Les deux cohortes se retrouveront pour un stage intensif de 4 jours</h4>
-
-* De 9h00 à 18h00, 7 heures et demies par jour avec une pause de 90 minutes
-
-Calendrier:
-
-* 26-27-28-29 juin 2013
-* 19-20-21-22 décembre 2013
-
+* Chaque stage de 90 heures se déroulera en 3 blocs de 4 jours de formation et
+une journée de congé entre les blocs.

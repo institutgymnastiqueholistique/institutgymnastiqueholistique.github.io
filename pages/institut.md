@@ -8,13 +8,18 @@ permalink: /institut/
     <a href="{{ site.baseurl }}/institut/#mission">Mission</a>
     <a href="{{ site.baseurl }}/institut/#historique">Historique</a>
     <a href="{{ site.baseurl }}/institut/#directrice">Directrice</a>
-    <a href="{{ site.baseurl }}/institut/#professeurs">Professeurs</a>
+    <a href="{{ site.baseurl }}/institut/#equipe">Équipe</a>
     <a href="{{ site.baseurl }}/institut/#affiliations">Affiliations</a>
 </div>
 
 <h1>{{ page.title }}</h1>
 
-L’Institut International de Gymnastique Holistique, sous la direction de Lucie Tétreault, pht, éducatrice somatique et formatrice agréée en GH, s'est doté d'une mission fondamentale, soit de promouvoir et de transmettre l'enseignement de la Gymnastique Holistique-méthode du Dr Ehrenfried auprès des professionnels issus des domaines de la santé, de l'éducation, du sport et des arts.
+L’Institut International de Gymnastique Holistique, sous la direction de Lucie
+Tétreault, physiothérapeute, éducatrice somatique et formatrice agréée en
+Gymnastique Holistique-Ehrenfried, s'est doté d'une mission fondamentale, soit
+de promouvoir et de transmettre l'enseignement de la Gymnastique
+Holistique-méthode du Dr Ehrenfried auprès des professionnels issus des
+domaines de la santé, de l'éducation, du sport et des arts.
 
 <h2 id="mission">Mission</h2>
 
@@ -58,15 +63,40 @@ En 1984, elle acquiert toutes ses compétences dans l’application et l’inté
 
 Cette méthode la passionne par ses fondements physiologiques bien ancrés dans des notions scientifiques. Son désir de les clarifier l’amène à conceptualiser cette approche dans une vision globale et intégrée de l’être humain en mouvement.
 
-Dès 1986, elle contribue à la formation des praticiennes au Québec et à partir de 2003, elle est autorisée, comme formatrice agréée, à transmettre l’enseignement de la Gymnastique Holistique-Méthode du Dr Lily Ehrenfried. Elle devient responsable du programme de formation professionnelle en Gymnastique Holistique, en 2005.
+Dès 1984, elle contribue à la formation des praticiennes au Québec et à partir
+de 2003, elle est autorisée, comme formatrice nationale et internationale, à transmettre
+l’enseignement de la Gymnastique Holistique-Méthode du Dr Lily Ehrenfried. Elle
+devient responsable du programme de formation professionnelle en Gymnastique
+Holistique, en 2005.
 
 Elle participe comme instigatrice et chargée de cours, à la mise sur pied du Diplôme d’Études Supérieures Spécialisées (DESS) en Éducation Somatique et du programme universitaire de formation en Éducation Somatique, profil Gymnastique Holistique (2008-2009).
 
-Elle collabore à la création de l’AEDEPGH-Q en 1988 où elle deviendra trésorière puis présidente de 1990 à 1994. En 1996, son implication l’amène à être membre fondateur du Regroupement pour l’Éducation Somatique où elle agit à titre de vice-présidente depuis 2 ans.
+Elle collabore à la création de l’AEDEPGH-Q en 1988 où elle deviendra
+trésorière puis présidente de 1990 à 1994. En 1996, son implication l’amène à
+être membre fondateur du Regroupement pour l’Éducation Somatique où elle agit à
+titre de vice-présidente et conseillère représentante de l'AEDEPGH-Q.
 
 Plus d'informations sur son site personnel: [lucietetreault.com](http://lucietetreault.com)
 
-<h2 id="professeurs">Professeurs</h2>
+<h2 id="equipe">Équipe</h2>
+
+<h3>Hedwidge Toupin</h3>
+
+Hedwidge Toupin (Maîtrise et DESS en éducation somatique, Bac en danse de
+l’UQAM) est éducatrice somatique en Gymnastique Holistique-Méthode Ehrenfried
+(GHE).  Elle anime des séances de groupe dans le milieu communautaire et
+supervise, en privé, des ateliers réflexifs et d’explorations somatiques pour
+éducateurs somatiques et apprenants.
+
+Au sein de l’IIGH, Hedwidge Toupin présente les outils méthodologiques
+nécessaires à la formation professionnelle en GHE. Elle aborde également les
+théories de l’éducation somatique, en ouvrant un espace expérientiel et
+réflexif sur les multiples dimensions impliquées dans cette pédagogie
+particulière.  L’approche originale qu’elle utilise permet aux apprenants de
+faire l’expérience intime de certaines des théories de l’éducation somatique et
+d’y puiser un vocabulaire incarné.
+
+<h3>Céline Laviolette</h3>
 
 <h3>Lise Sirois</h3>
 
@@ -80,23 +110,13 @@ Infirmière et sociologue de formation, elle devient praticienne en Gymnastique 
 
 L’IIGH invite ponctuellement les professeurs mentionnés ci-dessous, à participer à son programme de formation. Ils ont développé une expertise unique comme auteurs, enseignants et conférenciers dans divers contextes et spécifiquement dans le cadre du Diplôme d’Études Supérieures Spécialisées (DESS) en Éducation Somatique de l’UQAM. Ces pédagogues enrichissent la réflexion sur les différents enjeux soulevés par l’Éducation Somatique complétant ainsi de manière exceptionnelle la formation des futurs praticiens.
 
-<h3>Sylvie Fortin</h3>
-
-Ph.D. Auteure, professeure-chercheure au Département de danse de l’Université du Québec à Montréal. Éducatrice somatique méthode Feldenkrais. Au sein de l’IIGH, Sylvie Fortin donne le cours *Perspectives sur le corps*.
-
-Ce cours propose de se familiariser avec les grandes écoles de pensée qui ont pris le corps comme objet d’études. Qu’elles soient philosophiques, anthropologiques ou phénoménologiques, vous découvrirez leur pertinence dans la compréhension du corps en mouvement, à l’époque actuelle.
-
-<h3>Odette Guimond</h3>
-
-Ph.D. Université de Montréal. Chargée de cours à l’UQAM. Éducatrice Somatique méthode Feldenkrais. Pratique privée. Au sein de l’IIGH, Odette Guimond donne le cours *Fondements théoriques de l’Éducation Somatique*.
-
-Ce cours favorise une réflexion théorique concernant le champ disciplinaire de l’Éducation Somatique au-delà des méthodes. Il permet de clarifier ce qu’est l’Éducation Somatique et quels en sont ses concepts, ses principes pédagogiques et ses applications. Ce cours offre un espace pour réfléchir sur le développement, l’éthique et les enjeux sociopolitiques de la profession.
-
 <h3>Yvan Joly</h3>
 
 MA. Psychologie, spécialisé en science cognitive. Praticien et formateur certifié de la méthode Feldenkrais. Il est un des leaders mondiaux dans l’établissement du champ disciplinaire de l’Éducation Somatique. Au sein de l’IIGH, Yvan Joly donne le cours *Perspectives de l’Éducation Somatique sur le développement sensori-moteur du jeune enfant*
 
 Ce cours permet de s’immerger dans l’évolution du mouvement dans une perspective phylogénétique et ontogénique avec comme structure les principes pédagogiques propres à l’Éducation Somatique.
+
+<h3>Andrée Dumouchel</h3>
 
 <h2 id="affiliations">Affiliations</h2>
 
