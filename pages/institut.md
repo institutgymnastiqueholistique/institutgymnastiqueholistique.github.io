@@ -96,18 +96,6 @@ Infirmière et sociologue de formation, elle devient praticienne en Gymnastique 
 
 L’IIGH invite ponctuellement les professeurs mentionnés ci-dessous, à participer à son programme de formation. Ils ont développé une expertise unique comme auteurs, enseignants et conférenciers dans divers contextes et spécifiquement dans le cadre du Diplôme d’Études Supérieures Spécialisées (DESS) en Éducation Somatique de l’UQAM. Ces pédagogues enrichissent la réflexion sur les différents enjeux soulevés par l’Éducation Somatique complétant ainsi de manière exceptionnelle la formation des futurs praticiens.
 
-<h3>Sylvie Fortin</h3>
-
-Ph.D. Auteure, professeure-chercheure au Département de danse de l’Université du Québec à Montréal. Éducatrice somatique méthode Feldenkrais. Au sein de l’IIGH, Sylvie Fortin donne le cours *Perspectives sur le corps*.
-
-Ce cours propose de se familiariser avec les grandes écoles de pensée qui ont pris le corps comme objet d’études. Qu’elles soient philosophiques, anthropologiques ou phénoménologiques, vous découvrirez leur pertinence dans la compréhension du corps en mouvement, à l’époque actuelle.
-
-<h3>Odette Guimond</h3>
-
-Ph.D. Université de Montréal. Chargée de cours à l’UQAM. Éducatrice Somatique méthode Feldenkrais. Pratique privée. Au sein de l’IIGH, Odette Guimond donne le cours *Fondements théoriques de l’Éducation Somatique*.
-
-Ce cours favorise une réflexion théorique concernant le champ disciplinaire de l’Éducation Somatique au-delà des méthodes. Il permet de clarifier ce qu’est l’Éducation Somatique et quels en sont ses concepts, ses principes pédagogiques et ses applications. Ce cours offre un espace pour réfléchir sur le développement, l’éthique et les enjeux sociopolitiques de la profession.
-
 <h3>Yvan Joly</h3>
 
 MA. Psychologie, spécialisé en science cognitive. Praticien et formateur certifié de la méthode Feldenkrais. Il est un des leaders mondiaux dans l’établissement du champ disciplinaire de l’Éducation Somatique. Au sein de l’IIGH, Yvan Joly donne le cours *Perspectives de l’Éducation Somatique sur le développement sensori-moteur du jeune enfant*
