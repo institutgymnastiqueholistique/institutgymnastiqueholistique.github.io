@@ -68,6 +68,22 @@ Plus d'informations sur son site personnel: [lucietetreault.com](http://lucietet
 
 <h2 id="equipe">Équipe</h2>
 
+<h3>Hedwidge Toupin</h3>
+
+Hedwidge Toupin (Maîtrise et DESS en éducation somatique, Bac en danse de
+l’UQAM) est éducatrice somatique en Gymnastique Holistique-Méthode Ehrenfried
+(GHE).  Elle anime des séances de groupe dans le milieu communautaire et
+supervise, en privé, des ateliers réflexifs et d’explorations somatiques pour
+éducateurs somatiques et apprenants.
+
+Au sein de l’IIGH, Hedwidge Toupin présente les outils méthodologiques
+nécessaires à la formation professionnelle en GHE. Elle aborde également les
+théories de l’éducation somatique, en ouvrant un espace expérientiel et
+réflexif sur les multiples dimensions impliquées dans cette pédagogie
+particulière.  L’approche originale qu’elle utilise permet aux apprenants de
+faire l’expérience intime de certaines des théories de l’éducation somatique et
+d’y puiser un vocabulaire incarné.
+
 <h3>Lise Sirois</h3>
 
 Bac. Sc. Université de Montréal, CPEC, Université de Sherbrooke, Formation en Psychosynthèse, Formation en Relation d’aide, Éducatrice Somatique à l’Atelier de Travail Corporel de 1981 à 2007.
