@@ -8,7 +8,7 @@ permalink: /institut/
     <a href="{{ site.baseurl }}/institut/#mission">Mission</a>
     <a href="{{ site.baseurl }}/institut/#historique">Historique</a>
     <a href="{{ site.baseurl }}/institut/#directrice">Directrice</a>
-    <a href="{{ site.baseurl }}/institut/#professeurs">Professeurs</a>
+    <a href="{{ site.baseurl }}/institut/#equipe">Équipe</a>
     <a href="{{ site.baseurl }}/institut/#affiliations">Affiliations</a>
 </div>
 
@@ -66,7 +66,7 @@ Elle collabore à la création de l’AEDEPGH-Q en 1988 où elle deviendra trés
 
 Plus d'informations sur son site personnel: [lucietetreault.com](http://lucietetreault.com)
 
-<h2 id="professeurs">Professeurs</h2>
+<h2 id="equipe">Équipe</h2>
 
 <h3>Lise Sirois</h3>
 
